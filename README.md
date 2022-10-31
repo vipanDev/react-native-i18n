@@ -1,3 +1,11 @@
+# compile changed with implementation
+
+use:- 
+
+"react-native-i18n": "git+https://github.com/vipanDev/react-native-i18n",
+
+in package.json file
+
 # ⚠️ This package is deprecated
 
 _This library is deprecated in favor of [react-native-localize](https://github.com/react-native-community/react-native-localize). You can use react-native-localize with [I18n-js](https://github.com/fnando/i18n-js) (but also with [react-intl](https://github.com/yahoo/react-intl), [react-i18next](https://github.com/i18next/react-i18next), etc. The choice is yours!)_
